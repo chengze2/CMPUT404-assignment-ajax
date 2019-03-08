@@ -16,6 +16,7 @@ Chengze Li https://github.com/chengze2/CMPUT404-assignment-ajax.git
 
 References
 ==========
+https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest
 https://stackoverflow.com/questions/39519246/make-xmlhttprequest-post-using-json
 https://www.jianshu.com/p/755bc48467f1
 https://github.com/uofa-cmput404/cmput404-slides/blob/master/examples/ObserverExampleAJAX/server.py
